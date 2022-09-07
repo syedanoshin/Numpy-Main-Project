@@ -14,7 +14,7 @@ Features:
 8. Clicks: number of clicks on for that ad
 9. Spent: Amount paid by company xyz to Facebook, to show that ad
 10. Total conversion: Total number of people who enquired about the product after seeing the ad
-11. Approved conversion: Total number of people who bought the product after seeing the ad<br>
+11. Approved conversion: Total number of people who bought the product after seeing the ad<br><br>
 Instructions:
 Load the data. Data is already given to you in variable path
 
